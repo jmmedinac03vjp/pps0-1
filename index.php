@@ -2,7 +2,7 @@
 	<h1>Projecte Welcome 1</h1>
 	<ul>
 
-	<?php 
+	<?php
         $imgs = scandir("./img",SCANDIR_SORT_ASCENDING);
         foreach( $imgs as $img ) {
             if( $img=="." || $img==".." )
