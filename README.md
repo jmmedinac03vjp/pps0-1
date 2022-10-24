@@ -6,7 +6,7 @@ This is a *first contact* git project for students at CECETI (IES Valle del Jert
 
 You can download the project doing:
 
-    $ git clone https://github.com/jmmedinac03vjp/welcome
+    $ git clone https://github.com/jmmedinac03vjp/pps0-1
     $ cd welcome
 
 If you have PHP installed in your system, you can start the PHP embedded mini server by excecuting that inside the ``welcome`` folder:
@@ -35,3 +35,4 @@ qualified with ZERO** '0' in this task. So, please be nice.
 
 
 If you want to add some more presentation here in the README file, you may take a look to the [Markdown syntax](https://help.github.com/articles/markdown-basics/).
+
