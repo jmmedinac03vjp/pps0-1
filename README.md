@@ -1,19 +1,19 @@
-# Welcome Project IETI
+# Welcome Project CECETI
 
-This is a *first contact* git project for students at IETI (Institut Esteve Terradas i Illa) in Cornellà de Llobregat (or for anyone else that likes it by simply forking the repo).
+This is a *first contact* git project for students at CECETI (IES Valle del Jerte de Plasencia)  (or for anyone else that likes it by simply forking the repo).
 
 ## Install
 
 You can download the project doing:
 
-    $ git clone https://github.com/AWS2/welcome
+    $ git clone https://github.com/jmmedinac03vjp/pps0-1
     $ cd welcome
 
 If you have PHP installed in your system, you can start the PHP embedded mini server by excecuting that inside the ``welcome`` folder:
 
     $ php -S 0.0.0.0:8080
 
-Then you will be able to see the website in http://localhost:8080
+Then you will be able to see the website in http://localhost
 
 
 ## First GIT project
@@ -35,3 +35,4 @@ qualified with ZERO** '0' in this task. So, please be nice.
 
 
 If you want to add some more presentation here in the README file, you may take a look to the [Markdown syntax](https://help.github.com/articles/markdown-basics/).
+
